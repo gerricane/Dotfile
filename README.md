@@ -1,4 +1,6 @@
 # Dotfiles
+Based on Nordic theme by [thedudeontitan](https://github.com/thedudeontitan/linuxdotfiles)
+
 Requierement:
 * [Icons in terminal](https://github.com/sebastiencs/icons-in-terminal)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/UbuntuMono/Regular)
