@@ -7,4 +7,4 @@ Requierement:
 * [Polybar](https://github.com/polybar/polybar)
 * [Alacritty](https://github.com/alacritty/alacritty)
 
-![](https://i.imgur.com/r4K24TW.png)
+![](https://i.imgur.com/WvAhRHi.png)
